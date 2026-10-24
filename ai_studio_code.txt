@@ -1,0 +1,4 @@
+<form class="search" id="searchForm">
+  <input id="searchInput" placeholder="खबर खोजें..." aria-label="खबर खोजें">
+  <button type="submit">खोजें</button>
+</form>
